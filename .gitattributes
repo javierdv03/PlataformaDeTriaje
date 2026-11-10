@@ -2,3 +2,4 @@ echo "* linguist-vendored=false" > .gitattributes
 echo "backend/* linguist-detectable=true" >> .gitattributes
 echo "docs/* linguist-documentation=true" >> .gitattributes
 echo "documentacion/* linguist-documentation=true" >> .gitattributes
+echo "frontend/* linguist-documentation=true" >> .gitattributes
