@@ -1,4 +1,4 @@
-# Soporte de Triaje de Incidencias
+# Soporte de Triaje de Incidencias - Realizada para Viewnext (Grupo IBM)
 
 Sistema web de apoyo al triaje de incidencias mal asignadas. Combina búsqueda por similitud, trazas técnicas, documentación indexada e IA contextual para ayudar al personal de soporte a tomar decisiones mejor fundamentadas.
 
